@@ -1,0 +1,30 @@
+body{
+    background-color:75, 180, 191;
+    color: whitesmoke;
+    margin: 0;
+    padding: 0;:
+}
+
+header{
+    background-color: ;
+    text-align: ;
+    padding: 20px;
+}
+
+header h1{
+    color: ;
+    margin: 0;
+}
+
+header img{
+    width: 120px;
+    margin-top: 10px;
+}
+
+nav{
+    background-color: ;
+    padding: ;
+    text-align: ;
+}
+
+
