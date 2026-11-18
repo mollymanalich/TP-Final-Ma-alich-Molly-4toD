@@ -2,7 +2,7 @@ body{
     background-color:#829B76;
     color: #292929;
     margin: 0;
-    padding: 0;:
+    padding: 0;
 }
 
 header{
