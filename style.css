@@ -1,18 +1,18 @@
 body{
-    background-color:#829B76;
-    color: #292929;
+    background-color:	#F7F4EB;
+    color: #333333;
     margin: 0;
     padding: 0;
 }
 
 header{
-    background-color:#263D32 ;
+    background-color:#DCE5D5;
     text-align: center ;
     padding: 20px;
 }
 
 header h1{
-    color: #F5F1E8 ;
+    color: #536B4E ;
     margin: 0;
 }
 
@@ -22,7 +22,7 @@ header img{
 }
 
 nav{
-    background-color:	#292929 ;
+    background-color:#B4C4A5;
     padding: 15px;
     text-align: center ;
 }
@@ -39,7 +39,7 @@ nav ul li{
 }
 
 nav a{
-    color: 	#161615;
+    color: 	#333333;
     text-decoration: none;
     font-weight: 700;
 }
@@ -47,7 +47,7 @@ nav a{
 main{
     margin: 20px auto;
     width: 80%;
-    background-color: #F5F1E8 ;
+    background-color: 	#F7F4EB ;
     padding: 20px;
     border: 2px solid #263D32;
 }
@@ -59,11 +59,11 @@ section{
 }
 
 h2{
-    color:#263D32 ;
+    color:	#536B4E;
 }
 
 h3{
-    color:	#A65D32 ;
+    color:		#A65D32 ;
 }
 
 main img{
@@ -72,10 +72,10 @@ main img{
 }
 
 footer{
-    background: #263D32;
+    background: 	#DCE5D5;
     color:#F5F1E8 ;
     text-align: center;
     padding: 15px;
     font-weight: bold;
-    border-top:	3px solid #A65D32 ;
+    border-top:	3px solid 	#536B4E;
 }
