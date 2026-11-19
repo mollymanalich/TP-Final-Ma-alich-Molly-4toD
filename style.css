@@ -16,6 +16,8 @@ header{
 header h1{
     color: 	#F5F1E8 ;
     margin: 0;
+    font-size: 38px;
+    letter-spacing: 2px;
 }
 
 header img{
