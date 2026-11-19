@@ -85,6 +85,15 @@ main img{
     border-radius: 8px;
 }
 
+iframe{
+    width: 70%; 
+    display: block;
+    margin: 20px auto;
+    border-radius: 8px;
+    border: #A65D32 5px;
+}
+
+
 footer{
     background: #263D32;
     color: 	#F5F1E8 ;
