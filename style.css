@@ -63,11 +63,17 @@ section{
 h2{
     color: #263D32;
     text-align: center;
+     font-size: 28px;
 }
 
 h3{
     color:	#A65D32;
     font-weight: bold;
+     font-size: 23px;
+}
+
+p{
+    font-size: 18px;
 }
 
 main img{
